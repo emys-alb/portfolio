@@ -1,17 +1,9 @@
 <br />
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50887367/100883923-a6e62380-348f-11eb-9b2b-bd6ba903c488.png" alt="Logo" width="800">
-
-  <h3 align="center">Página de Porfólio by <a href="https://www.linkedin.com/in/maria-fernanda-almeida-oliveira-882944187/">Maria Fernanda Almeida</a></h3>
- <br />
-  <p align="center">
-    Página para mostrar seu talento à comunidade!
-       <br />
-    <br />
-    <a href="https://github.com/devchallenge-io/one-landing-page">Desafio</a>
-    ·
-    <a href="https://www.devchallenge.com.br/">DevChallenge</a>
-  </p>
+  <h3 align="center">
+      Portfólio dev criado a partir do DevChallenge. Reune projetos, stacks e como me contatar. 
+  </h3>
 </p>
 
 ## Índice
